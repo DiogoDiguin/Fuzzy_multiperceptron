@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708802002 source:c:\codeblocks projetos\fuzzy_multiperceptron\main.c
+	<stdio.h>
+	<stdlib.h>
+
